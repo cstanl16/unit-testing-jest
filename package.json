@@ -1,0 +1,20 @@
+{
+  "name": "unit-testing-jest",
+  "version": "1.0.0",
+  "description": "\"# unit-testing-jest\"",
+  "main": "cloneArray.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cstanl16/unit-testing-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cstanl16/unit-testing-jest/issues"
+  },
+  "homepage": "https://github.com/cstanl16/unit-testing-jest#readme"
+}
